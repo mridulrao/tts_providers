@@ -1,0 +1,5862 @@
+[
+  {
+    "provider": "OpenAI",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Armenian",
+    "countries": [
+      "Armenia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Azerbaijani",
+    "countries": [
+      "Azerbaijan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Belarusian",
+    "countries": [
+      "Belarus"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Bosnian",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Croatian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Croatia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Estonian",
+    "countries": [
+      "Estonia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Canada",
+      "Chad",
+      "Congo",
+      "France",
+      "Guinea",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Galician",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Hungarian",
+    "countries": [
+      "Hungary"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Icelandic",
+    "countries": [
+      "Iceland"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Kazakh",
+    "countries": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Latvian",
+    "countries": [
+      "Latvia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Lithuanian",
+    "countries": [
+      "Lithuania"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Macedonian",
+    "countries": [
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Maori",
+    "countries": [
+      "New Zealand"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Nepali",
+    "countries": [
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Norwegian",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Persian",
+    "countries": [
+      "Afghanistan",
+      "Iran",
+      "Tajikistan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Romanian",
+    "countries": [
+      "Moldova",
+      "Romania"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Serbian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Montenegro",
+      "Serbia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Slovak",
+    "countries": [
+      "Slovakia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Slovenian",
+    "countries": [
+      "Slovenia"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Swahili",
+    "countries": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Tagalog",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "language": "Welsh",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Arabic (Gulf)",
+    "countries": [
+      "Bahrain",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "France",
+      "Italy",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Chinese (Cantonese)",
+    "countries": [
+      "China",
+      "Hong Kong",
+      "Macau"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Chinese (Mandarin)",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Danish",
+    "countries": [
+      "Denmark",
+      "Greenland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Dutch (Belgian)",
+    "countries": [
+      "Belgium"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (Australian)",
+    "countries": [
+      "Australia"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (British)",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (Indian)",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (New Zealand)",
+    "countries": [
+      "New Zealand"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (Singaporean)",
+    "countries": [
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (South African)",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (US)",
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "English (Welsh)",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "French (Belgian)",
+    "countries": [
+      "Belgium"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "French (Canadian)",
+    "countries": [
+      "Canada"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "German (Austrian)",
+    "countries": [
+      "Austria"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "German (Swiss)",
+    "countries": [
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Icelandic",
+    "countries": [
+      "Iceland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Norwegian",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Portuguese (Brazilian)",
+    "countries": [
+      "Brazil"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Portuguese (European)",
+    "countries": [
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Romanian",
+    "countries": [
+      "Moldova",
+      "Romania"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Spanish (Spain)",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Spanish (Mexican)",
+    "countries": [
+      "Mexico"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Spanish (US)",
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "AWS Polly",
+    "language": "Welsh",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Amharic",
+    "countries": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Assamese",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Azerbaijani",
+    "countries": [
+      "Azerbaijan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Bosnian",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Croatian",
+    "countries": [
+      "Croatia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "Ghana",
+      "Hong Kong",
+      "India",
+      "Ireland",
+      "Kenya",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "Tanzania",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Estonian",
+    "countries": [
+      "Estonia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Filipino",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Canada",
+      "France",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Galician",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Georgian",
+    "countries": [
+      "Georgia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Germany",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Hungarian",
+    "countries": [
+      "Hungary"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Icelandic",
+    "countries": [
+      "Iceland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Irish",
+    "countries": [
+      "Ireland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Kazakh",
+    "countries": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Khmer",
+    "countries": [
+      "Cambodia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Latvian",
+    "countries": [
+      "Latvia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Lithuanian",
+    "countries": [
+      "Lithuania"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Macedonian",
+    "countries": [
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Maltese",
+    "countries": [
+      "Malta"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Mongolian",
+    "countries": [
+      "Mongolia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Nepali",
+    "countries": [
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Norwegian Bokmål",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Pashto",
+    "countries": [
+      "Afghanistan",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Persian",
+    "countries": [
+      "Afghanistan",
+      "Iran",
+      "Tajikistan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Portuguese",
+    "countries": [
+      "Brazil",
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Punjabi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Romanian",
+    "countries": [
+      "Moldova",
+      "Romania"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Serbian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Montenegro",
+      "Serbia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Sinhala",
+    "countries": [
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Slovak",
+    "countries": [
+      "Slovakia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Slovenian",
+    "countries": [
+      "Slovenia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Somali",
+    "countries": [
+      "Djibouti",
+      "Ethiopia",
+      "Kenya",
+      "Somalia"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Mexico",
+      "Peru",
+      "Spain",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Swahili",
+    "countries": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Telugu",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Uzbek",
+    "countries": [
+      "Uzbekistan"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Welsh",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Azure AI Speech",
+    "language": "Zulu",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Afar",
+    "countries": [
+      "Djibouti",
+      "Eritrea",
+      "Ethiopia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Abkhazian",
+    "countries": [
+      "Georgia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Akan",
+    "countries": [
+      "Ghana"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Albanian",
+    "countries": [
+      "Albania",
+      "Kosovo",
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Amharic",
+    "countries": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Aragonese",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Armenian",
+    "countries": [
+      "Armenia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Assamese",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Avaric",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Avestan",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Aymara",
+    "countries": [
+      "Bolivia",
+      "Peru"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Azerbaijani",
+    "countries": [
+      "Azerbaijan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bambara",
+    "countries": [
+      "Mali"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bashkir",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Basque",
+    "countries": [
+      "France",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Belarusian",
+    "countries": [
+      "Belarus"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bislama",
+    "countries": [
+      "Vanuatu"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bosnian",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Breton",
+    "countries": [
+      "France"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Burmese",
+    "countries": [
+      "Myanmar"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Chamorro",
+    "countries": [
+      "Guam",
+      "Northern Mariana Islands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Chechen",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Chichewa",
+    "countries": [
+      "Malawi",
+      "Mozambique",
+      "Zambia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Chuvash",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Cornish",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Corsican",
+    "countries": [
+      "France"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Cree",
+    "countries": [
+      "Canada"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Croatian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Croatia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Divehi (Dhivehi)",
+    "countries": [
+      "Maldives"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Dutch (Flemish)",
+    "countries": [
+      "Belgium",
+      "Netherlands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Dzongkha",
+    "countries": [
+      "Bhutan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Guyana",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Esperanto",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Estonian",
+    "countries": [
+      "Estonia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Ewe",
+    "countries": [
+      "Ghana",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Faroese",
+    "countries": [
+      "Faroe Islands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Fijian",
+    "countries": [
+      "Fiji"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Burkina Faso",
+      "Cameroon",
+      "Canada",
+      "Congo (DRC)",
+      "Congo (Republic)",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Frisian",
+    "countries": [
+      "Netherlands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Fulah (Fula)",
+    "countries": [
+      "Guinea",
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Senegal"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Gaelic (Scottish Gaelic)",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Galician",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Georgian",
+    "countries": [
+      "Georgia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Haitian Creole",
+    "countries": [
+      "Haiti"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Hausa",
+    "countries": [
+      "Ghana",
+      "Niger",
+      "Nigeria"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Herero",
+    "countries": [
+      "Namibia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Hiri Motu",
+    "countries": [
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Hungarian",
+    "countries": [
+      "Hungary"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Icelandic",
+    "countries": [
+      "Iceland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Ido",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Igbo",
+    "countries": [
+      "Nigeria"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Interlingua",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Interlingue",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Inuktitut",
+    "countries": [
+      "Canada"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Inupiaq",
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Irish",
+    "countries": [
+      "Ireland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Javanese",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kashmiri",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kazakh",
+    "countries": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Khmer",
+    "countries": [
+      "Cambodia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kikuyu",
+    "countries": [
+      "Kenya"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kinyarwanda",
+    "countries": [
+      "Rwanda"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kirghiz (Kyrgyz)",
+    "countries": [
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Komi",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kongo",
+    "countries": [
+      "Congo (Republic)"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kuanyama",
+    "countries": [
+      "Angola",
+      "Namibia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Kurdish",
+    "countries": [
+      "Iran",
+      "Iraq",
+      "Syria",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Lao",
+    "countries": [
+      "Laos"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Latin",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Latvian",
+    "countries": [
+      "Latvia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Limburgish",
+    "countries": [
+      "Belgium",
+      "Netherlands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Lingala",
+    "countries": [
+      "Congo (DRC)",
+      "Congo (Republic)"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Lithuanian",
+    "countries": [
+      "Lithuania"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Luba-Katanga",
+    "countries": [
+      "Congo (DRC)"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Luxembourgish",
+    "countries": [
+      "Luxembourg"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Macedonian",
+    "countries": [
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Malagasy",
+    "countries": [
+      "Madagascar"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Maltese",
+    "countries": [
+      "Malta"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Manx",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Maori",
+    "countries": [
+      "New Zealand"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Marshallese",
+    "countries": [
+      "Marshall Islands"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Mongolian",
+    "countries": [
+      "Mongolia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Nauru",
+    "countries": [
+      "Nauru"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Navajo",
+    "countries": [
+      "United States"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "North Ndebele",
+    "countries": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Nepali",
+    "countries": [
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Norwegian",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Occitan",
+    "countries": [
+      "France"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Ojibwa (Ojibwe)",
+    "countries": [
+      "Canada",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Oriya (Odia)",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Oromo",
+    "countries": [
+      "Ethiopia",
+      "Kenya"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Ossetian",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Pashto",
+    "countries": [
+      "Afghanistan",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Persian",
+    "countries": [
+      "Afghanistan",
+      "Iran",
+      "Tajikistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Punjabi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Quechua",
+    "countries": [
+      "Bolivia",
+      "Ecuador",
+      "Peru"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Romanian",
+    "countries": [
+      "Moldova",
+      "Romania"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Romansh",
+    "countries": [
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Rundi",
+    "countries": [
+      "Burundi"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Samoan",
+    "countries": [
+      "Samoa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sango",
+    "countries": [
+      "Central African Republic"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sanskrit",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sardinian",
+    "countries": [
+      "Italy"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Scottish Gaelic (Gaelic)",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Serbian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Serbia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Shona",
+    "countries": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sindhi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sinhala",
+    "countries": [
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Slovak",
+    "countries": [
+      "Slovakia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Slovenian",
+    "countries": [
+      "Slovenia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Somali",
+    "countries": [
+      "Djibouti",
+      "Ethiopia",
+      "Kenya",
+      "Somalia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Sundanese",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Swahili",
+    "countries": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Swati",
+    "countries": [
+      "Eswatini",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tagalog",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tahitian",
+    "countries": [
+      "French Polynesia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tajik",
+    "countries": [
+      "Tajikistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tatar",
+    "countries": [
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Telugu",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tibetan",
+    "countries": [
+      "China",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tigrinya",
+    "countries": [
+      "Eritrea",
+      "Ethiopia"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tonga",
+    "countries": [
+      "Tonga"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tsonga",
+    "countries": [
+      "Mozambique",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Tswana",
+    "countries": [
+      "Botswana",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Turkmen",
+    "countries": [
+      "Turkmenistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Uighur (Uyghur)",
+    "countries": [
+      "China"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Uzbek",
+    "countries": [
+      "Uzbekistan"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Venda",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Volapük",
+    "countries": []
+  },
+  {
+    "provider": "Basten",
+    "language": "Walloon",
+    "countries": [
+      "Belgium"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Welsh",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Wolof",
+    "countries": [
+      "Gambia",
+      "Senegal"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Xhosa",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Yiddish",
+    "countries": [
+      "Israel",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Yoruba",
+    "countries": [
+      "Benin",
+      "Nigeria",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Zhuang/Chuang",
+    "countries": [
+      "China"
+    ]
+  },
+  {
+    "provider": "Basten",
+    "language": "Zulu",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "Cartesia",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "Deepgram",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Guyana",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Deepgram",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Armenian",
+    "countries": [
+      "Armenia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Assamese",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Azerbaijani",
+    "countries": [
+      "Azerbaijan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Belarusian",
+    "countries": [
+      "Belarus"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Bosnian",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Cebuano",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Chichewa",
+    "countries": [
+      "Malawi",
+      "Mozambique",
+      "Zambia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Croatian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Croatia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Estonian",
+    "countries": [
+      "Estonia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Filipino",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Congo",
+      "France",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Monaco",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Galician",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Georgian",
+    "countries": [
+      "Georgia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Hausa",
+    "countries": [
+      "Niger",
+      "Nigeria"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Hungarian",
+    "countries": [
+      "Hungary"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Icelandic",
+    "countries": [
+      "Iceland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Irish",
+    "countries": [
+      "Ireland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Javanese",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Kazakh",
+    "countries": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Kirghiz",
+    "countries": [
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Latvian",
+    "countries": [
+      "Latvia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Lingala",
+    "countries": [
+      "Congo",
+      "Democratic Republic of the Congo"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Lithuanian",
+    "countries": [
+      "Lithuania"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Luxembourgish",
+    "countries": [
+      "Luxembourg"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Macedonian",
+    "countries": [
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Mandarin Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Nepali",
+    "countries": [
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Norwegian",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Pashto",
+    "countries": [
+      "Afghanistan",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Persian",
+    "countries": [
+      "Afghanistan",
+      "Iran",
+      "Tajikistan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Mozambique",
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Punjabi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Romanian",
+    "countries": [
+      "Moldova",
+      "Romania"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Serbian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Serbia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Sindhi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Slovak",
+    "countries": [
+      "Slovakia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Slovenian",
+    "countries": [
+      "Slovenia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Somali",
+    "countries": [
+      "Djibouti",
+      "Ethiopia",
+      "Kenya",
+      "Somalia"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Swahili",
+    "countries": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Malaysia",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Telugu",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "ElevenLabs",
+    "language": "Welsh",
+    "countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Basque",
+    "countries": [
+      "France",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "France",
+      "Italy",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Danish",
+    "countries": [
+      "Denmark",
+      "Greenland"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Filipino",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Burkina Faso",
+      "Cameroon",
+      "Canada",
+      "Congo (DRC)",
+      "France",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Mandarin Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Norwegian Bokmål",
+    "countries": [
+      "Norway"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Mozambique",
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Swahili",
+    "countries": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Malaysia",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Telugu",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "Gemini",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "Groq",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Guyana",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Groq",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "Hume",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Bahamas",
+      "Barbados",
+      "Canada",
+      "India",
+      "Ireland",
+      "Jamaica",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "Trinidad and Tobago",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Hume",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "Inworld",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "São Tomé and Príncipe"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Chad",
+      "Congo",
+      "France",
+      "Guinea",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "LMNT",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Comoros",
+      "Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "Neuphonic",
+    "language": "Chinese",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Afrikaans",
+    "countries": [
+      "Namibia",
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Albanian",
+    "countries": [
+      "Albania",
+      "Kosovo",
+      "North Macedonia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Amharic",
+    "countries": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Bulgarian",
+    "countries": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Catalan",
+    "countries": [
+      "Andorra",
+      "Spain"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Croatian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Croatia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Congo (DRC)",
+      "France",
+      "Ivory Coast",
+      "Luxembourg",
+      "Monaco",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Galician",
+    "countries": [
+      "Spain"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Hungarian",
+    "countries": [
+      "Hungary"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Mandarin",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Mozambique",
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Serbian",
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Montenegro",
+      "Serbia"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Tagalog",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Thai",
+    "countries": [
+      "Thailand"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Urdu",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "PlayHT",
+    "language": "Xhosa",
+    "countries": [
+      "South Africa"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Greek",
+    "countries": [
+      "Cyprus",
+      "Greece"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Swedish",
+    "countries": [
+      "Finland",
+      "Sweden"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Pakistan",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Korean",
+    "countries": [
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Macau",
+      "Mozambique",
+      "Portugal"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Malaysia",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Filipino",
+    "countries": [
+      "Philippines"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Malay",
+    "countries": [
+      "Brunei",
+      "Malaysia",
+      "Singapore"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Punjabi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Turkish",
+    "countries": [
+      "Cyprus",
+      "Turkey"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "British",
+    "countries": []
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Finnish",
+    "countries": [
+      "Finland"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Indonesian",
+    "countries": [
+      "Indonesia"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Ukrainian",
+    "countries": [
+      "Ukraine"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Czech",
+    "countries": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Burkina Faso",
+      "Cameroon",
+      "Canada",
+      "Congo",
+      "France",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Mandarin",
+    "countries": [
+      "China",
+      "Singapore",
+      "Taiwan"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Slovak",
+    "countries": [
+      "Slovakia"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Vietnamese",
+    "countries": [
+      "Vietnam"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Danish",
+    "countries": [
+      "Denmark"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Japanese",
+    "countries": [
+      "Japan"
+    ]
+  },
+  {
+    "provider": "ResembleAI",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Equatorial Guinea",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Rime",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Rime",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Rime",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Congo (DRC)",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Guinea",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Republic of the Congo",
+      "Rwanda",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Rime",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "Singapore",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Malaysia",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Telugu",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Malayalam",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Punjabi",
+    "countries": [
+      "India",
+      "Pakistan"
+    ]
+  },
+  {
+    "provider": "SarvamAI",
+    "language": "Odia",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Hindi",
+    "countries": [
+      "Fiji",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Tamil",
+    "countries": [
+      "India",
+      "Malaysia",
+      "Singapore",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Kannada",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Gujarati",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Bengali",
+    "countries": [
+      "Bangladesh",
+      "India"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Marathi",
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Canada",
+      "Chad",
+      "Congo",
+      "France",
+      "Guinea",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Rwanda",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "United States",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Italian",
+    "countries": [
+      "Italy",
+      "San Marino",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Polish",
+    "countries": [
+      "Poland"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Dutch",
+    "countries": [
+      "Belgium",
+      "Netherlands",
+      "Suriname"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Russian",
+    "countries": [
+      "Belarus",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Russia"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Arabic",
+    "countries": [
+      "Algeria",
+      "Bahrain",
+      "Egypt",
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Lebanon",
+      "Libya",
+      "Morocco",
+      "Oman",
+      "Palestine",
+      "Qatar",
+      "Saudi Arabia",
+      "Sudan",
+      "Syria",
+      "Tunisia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "provider": "SmallestAI",
+    "language": "Hebrew",
+    "countries": [
+      "Israel"
+    ]
+  },
+  {
+    "provider": "Speechify",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Speechify",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Benin",
+      "Burkina Faso",
+      "Canada",
+      "Central African Republic",
+      "Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "France",
+      "Gabon",
+      "Haiti",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Mali",
+      "Monaco",
+      "Niger",
+      "Senegal",
+      "Switzerland",
+      "Togo"
+    ]
+  },
+  {
+    "provider": "Speechify",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Speechify",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Speechify",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "provider": "Spitch",
+    "language": "English",
+    "countries": [
+      "Australia",
+      "Canada",
+      "India",
+      "Ireland",
+      "New Zealand",
+      "Nigeria",
+      "Philippines",
+      "South Africa",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  {
+    "provider": "Spitch",
+    "language": "French",
+    "countries": [
+      "Belgium",
+      "Cameroon",
+      "Canada",
+      "Congo (DRC)",
+      "France",
+      "Ivory Coast",
+      "Luxembourg",
+      "Madagascar",
+      "Monaco",
+      "Senegal",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Spitch",
+    "language": "German",
+    "countries": [
+      "Austria",
+      "Belgium",
+      "Germany",
+      "Liechtenstein",
+      "Luxembourg",
+      "Switzerland"
+    ]
+  },
+  {
+    "provider": "Spitch",
+    "language": "Spanish",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Puerto Rico",
+      "Spain",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "provider": "Spitch",
+    "language": "Portuguese",
+    "countries": [
+      "Angola",
+      "Brazil",
+      "Cape Verde",
+      "East Timor",
+      "Equatorial Guinea",
+      "Guinea-Bissau",
+      "Mozambique",
+      "Portugal",
+      "Sao Tome and Principe"
+    ]
+  }
+]
